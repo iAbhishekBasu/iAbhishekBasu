@@ -25,7 +25,7 @@ I am a Sophomore Student at The National Institute of Technology Durgapur, pursu
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=iabhishekbasu&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/iabhishekbasu)
 
 <!-- <a href="https://github.com/iabhishekbasu/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iabhishekbasu" width="350" height="275" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iabhishekbasu" width="275" height="275" />
 </a> -->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=iabhishekbasu&color=blue)
