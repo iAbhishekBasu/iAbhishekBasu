@@ -1,6 +1,6 @@
 ## Hi there, I'm Abhishek 👋🏼👨🏻‍💻
 
-[![Gmail Badge](https://img.shields.io/badge/-sdey9@uic.edu-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ab.19u10448@btech.nitdgp.ac.in "Connect via Email")
+[![Gmail Badge](https://img.shields.io/badge/-ab.19u10448@btech.nitdgp.ac.in-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ab.19u10448@btech.nitdgp.ac.in "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Abhishek%20Basu-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iabhishekbasu/ "Connect on LinkedIn")
 [![Telegram Badge](https://img.shields.io/badge/-@daftdey-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/daftdey "Contact on Telegram")
 [![Twitter Badge](https://img.shields.io/badge/-@samujjwaal-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=samujjwaal "Follow on Twitter")
