@@ -11,7 +11,7 @@ I am a Sophomore Student at The National Institute of Technology Durgapur, pursu
 
 - 🌱 I’m currently learning [Javascript](https://frontendmasters.com/courses/js-fundamentals-functional-v2/) and Data Structures and Algorithms in C++
 - 👯 I’m looking to collaborate on any Web Development project which seems interesting or useful
-- 💬 Talk to me about if Earth actually is flat, would headlights work at light speed, and everything in between
+- 💬 Talk to me about **Books**, **Cubing**, **Basketball** and anything related to **Technology**.
 - 📫 How to reach me: Use any of the [badges](#hi-there-im-Abhishek-) above
 - 😌 Motto: **The More You Sweat in Practice, the Less You Bleed in Battle**
 - 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
@@ -22,12 +22,9 @@ I am a Sophomore Student at The National Institute of Technology Durgapur, pursu
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=iabhishekbasu&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/iabhishekbasu)
 
-
-
 <!-- <a href="https://github.com/iabhishekbasu/convoychat">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iabhishekbasu" width="350"/>
 </a> -->
-
 
 ![Profile Views](https://komarev.com/ghpvc/?username=iabhishekbasu&color=blue)
 
@@ -35,10 +32,10 @@ I am a Sophomore Student at The National Institute of Technology Durgapur, pursu
 [![DEV Badge](https://img.shields.io/badge/-iabhishekbasu-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/iabhishekbasu)
 [![StackOverflow Badge](https://img.shields.io/badge/-iabhishekbasu-FE7A16?style=flat&logo=Stack%20Overflow&logoColor=white&)](https://stackoverflow.com/users/14384573/abhishek-basu?tab=profile)
 <!--[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/iabhishekbasu/)
-[![Soundcloud Badge](https://img.shields.io/badge/-Soundcloud-FE5000?style=flat&logo=Soundcloud&logoColor=white)](https://soundcloud.com/daftdey)
-[![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/22ydzsykc57ailqsqbn4ycwsq)
-[![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/SamujjwaalDeyJEDI/playlists)
-[![Reddit Badge](https://img.shields.io/badge/-u/daftdey-FF4500?style=flat&logo=Reddit&logoColor=white)](https://www.reddit.com/user/daftdey/ "Find on Reddit") -->
+[![Soundcloud Badge](https://img.shields.io/badge/-Soundcloud-FE5000?style=flat&logo=Soundcloud&logoColor=white)](https://soundcloud.com/)
+[![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/)
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/)
+[![Reddit Badge](https://img.shields.io/badge/-u/daftdey-FF4500?style=flat&logo=Reddit&logoColor=white)](https://www.reddit.com/user// "Find on Reddit") -->
 
 
 
