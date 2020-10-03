@@ -2,9 +2,9 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-ab.19u10448@btech.nitdgp.ac.in-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ab.19u10448@btech.nitdgp.ac.in "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Abhishek%20Basu-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iabhishekbasu/ "Connect on LinkedIn")
-<!--[![Telegram Badge](https://img.shields.io/badge/-@daftdey-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/daftdey "Contact on Telegram")
+[![Telegram Badge](https://img.shields.io/badge/-@daftdey-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/daftdey "Contact on Telegram")
 [![Twitter Badge](https://img.shields.io/badge/-@samujjwaal-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=samujjwaal "Follow on Twitter")
-[![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/samujjwaal "Connect on Facebook") --!>
+[![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/samujjwaal "Connect on Facebook") 
 
 <a href="https://samujjwaal.tech/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/python.png" align="right" height="200" /></a>
 
@@ -38,9 +38,6 @@ I am a Sophomore Student at The National Institute of Technology Durgapur, pursu
 
 
 
-
-
-
 <!-- For future reference 
 <a href="https://piraces.dev/"><img alt="Robot logo" src="https://github.com/piraces/piraces/raw/master/robot_dark.png" align="right" height="150" /></a>
 
@@ -55,6 +52,9 @@ I am a Sophomore Student at The National Institute of Technology Durgapur, pursu
 
 
 
+<a href="https://github.com/iabhishekbasu/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iabhishekbasu" width="350"/>
+</a>
 
 
 
