@@ -43,8 +43,6 @@ I am a Sophomore Student at The National Institute of Technology Durgapur, pursu
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samujjwaal" width="350"/>
 </a>
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=samujjwaal&repo=UIC-search-engine&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
-[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iabhishekbasu)
 
 <!-- For future reference 
 <a href="https://piraces.dev/"><img alt="Robot logo" src="https://github.com/piraces/piraces/raw/master/robot_dark.png" align="right" height="150" /></a>
