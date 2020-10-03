@@ -26,7 +26,7 @@ I am a Sophomore Student at The National Institute of Technology Durgapur, pursu
 
 ## Find me around the web :globe_with_meridians:
 [![DEV Badge](https://img.shields.io/badge/-iabhishekbasu-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/samujjwaal)
-[![StackOverflow Badge](https://img.shields.io/badge/-iabhishekbasu-FE7A16?style=flat&logo=Stack%20Overflow&logoColor=white&)](https://stackoverflow.com/users/12843322/daftdey?tab=profile)
+[![StackOverflow Badge](https://img.shields.io/badge/-iabhishekbasu-FE7A16?style=flat&logo=Stack%20Overflow&logoColor=white&)](https://stackoverflow.com/users/14384573/abhishek-basu?tab=profile
 <!--[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/iabhishekbasu/)
 [![Soundcloud Badge](https://img.shields.io/badge/-Soundcloud-FE5000?style=flat&logo=Soundcloud&logoColor=white)](https://soundcloud.com/daftdey)
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/22ydzsykc57ailqsqbn4ycwsq)
