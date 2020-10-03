@@ -20,9 +20,8 @@ I am a Sophomore Student at The National Institute of Technology Durgapur, pursu
 ## Some of my Github Public Stats
 <a href="https://samujjwaal.tech/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/coffee.png" align="right" height="275" /></a>
 
-<a href="https://github.com/iabhishekbasu/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iabhishekbasu" width="350"/>
-</a>
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=iabhishekbasu&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/iabhishekbasu)
+
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=iabhishekbasu&color=blue)
