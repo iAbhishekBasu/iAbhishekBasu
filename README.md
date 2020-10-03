@@ -5,7 +5,7 @@ Wear your failure as a badge of honour ~ Sundar Pichai
 [![Gmail Badge](https://img.shields.io/badge/-ab.19u10448@btech.nitdgp.ac.in-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ab.19u10448@btech.nitdgp.ac.in "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Abhishek%20Basu-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iabhishekbasu/ "Connect on LinkedIn")
 
-<a href="https://samujjwaal.tech/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/python.png" align="right" height="200" /></a>
+<a href="https://samujjwaal.tech/"><img src="https://github.com/iAbhishekBasu/iAbhishekBasu/blob/main/Pics/40869152.jpg" align="right" height="200" /></a>
 
 I am a Sophomore Student at The National Institute of Technology Durgapur, pursuing a Bachelor of Technology in Computer Science and Engineering , who is passionate about Web Development :computer:, Competitive programming :crossed_swords:, and open source :octocat:. I love to learn and contribute in any and every possible way.
 
