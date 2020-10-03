@@ -59,8 +59,9 @@ I am a Sophomore Student at The National Institute of Technology Durgapur, pursu
 <a href="https://github.com/iabhishekbasu/convoychat">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iabhishekbasu" width="350"/>
 </a>
- --!>
+
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=iabhishekbasu&repo=UIC-search-engine&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+ --!>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iabhishekbasu)
 -->
 
