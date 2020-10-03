@@ -54,11 +54,6 @@ I am a Sophomore Student at The National Institute of Technology Durgapur, pursu
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=iabhishekbasu.iabhishekbasu)
-[![HitCount](http://hits.dwyl.com/iabhishekbasu/iabhishekbasu.svg)](http://hits.dwyl.com/iabhishekbasu/iabhishekbasu)
-![Repo Views](https://views.whatilearened.today/views/github/iabhishekbasu/iabhishekbasu.svg?cache=remove)
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png">
 
 
 
