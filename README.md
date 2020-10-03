@@ -1,7 +1,7 @@
-## Hi there, I'm Samujjwaal 👋🏼👨🏻‍💻
+## Hi there, I'm Abhishek 👋🏼👨🏻‍💻
 
-[![Gmail Badge](https://img.shields.io/badge/-sdey9@uic.edu-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sdey9@uic.edu "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-Samujjwaal%20Dey-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iabhishekbasu/ "Connect on LinkedIn")
+[![Gmail Badge](https://img.shields.io/badge/-sdey9@uic.edu-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ab.19u10448@btech.nitdgp.ac.in "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/-Abhishek%20Basu-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iabhishekbasu/ "Connect on LinkedIn")
 [![Telegram Badge](https://img.shields.io/badge/-@daftdey-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/daftdey "Contact on Telegram")
 [![Twitter Badge](https://img.shields.io/badge/-@samujjwaal-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=samujjwaal "Follow on Twitter")
 [![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/samujjwaal "Connect on Facebook")
