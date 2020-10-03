@@ -18,6 +18,7 @@ I am a Sophomore Student at The National Institute of Technology Durgapur, pursu
 - 📝[Resume]()
 - 👾 Fun fact: If I didn't procastinate all my life, you would probably be reading a book about me now or watching a documentary of my life.
 
+<a href=""><img src="https://github.com/iAbhishekBasu/iAbhishekBasu/blob/main/Pics/code.gif" align="right" height="275" /></a>
 ## Some of my Github Public Stats
 <!-- <a href=""><img src="https://github.com/iAbhishekBasu/iAbhishekBasu/blob/main/Pics/GlLRaZV.png" align="right" height="275" /></a> -->
 
@@ -49,7 +50,7 @@ I am a Sophomore Student at The National Institute of Technology Durgapur, pursu
 [![Reddit Badge](https://img.shields.io/badge/-u/daftdey-FF4500?style=flat&logo=Reddit&logoColor=white)](https://www.reddit.com/user// "Find on Reddit") -->
 
 
-Credits: @a
+
 
 <!-- For future reference 
 <a href="https://piraces.dev/"><img alt="Robot logo" src="https://github.com/piraces/piraces/raw/master/robot_dark.png" align="right" height="150" /></a>
