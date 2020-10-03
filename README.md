@@ -10,8 +10,8 @@
 
 I am a Sophomore Student at The National Institute of Technology Durgapur, pursuing a Bachelor of Technology in Computer Science and Engineering , who is passionate about Web Development :computer:, Competitive programming :crossed_swords:, and open source :octocat:. I love to learn and contribute in any and every possible way.
 
-- 🌱 I’m currently learning [Machine Learning](https://www.coursera.org/learn/machine-learning) and Functional programming
-- 👯 I’m looking to collaborate on any Data Science project which seems interesting or useful
+- 🌱 I’m currently learning [Javascript](https://frontendmasters.com/courses/js-fundamentals-functional-v2/) and Data Structures and Algorithms in C++
+- 👯 I’m looking to collaborate on any Web Development project which seems interesting or useful
 - 💬 Talk to me about if Earth actually is flat, would headlights work at light speed, and everything in between
 - 📫 How to reach me: Use any of the [badges](#hi-there-im-Abhishek-) above
 - 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
