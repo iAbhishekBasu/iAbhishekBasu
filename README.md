@@ -1,8 +1,7 @@
 ## Hi there, I'm Abhishek 👋🏼👨🏻‍💻
-In the words of Sundar Pichai:
-
-> Wear your failure as a badge of honour
-
+```
+Wear your failure as a badge of honour ~ Sundar Pichai
+```
 [![Gmail Badge](https://img.shields.io/badge/-ab.19u10448@btech.nitdgp.ac.in-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ab.19u10448@btech.nitdgp.ac.in "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Abhishek%20Basu-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iabhishekbasu/ "Connect on LinkedIn")
 
