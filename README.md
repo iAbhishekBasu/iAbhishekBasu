@@ -8,7 +8,7 @@
 
 <a href="https://samujjwaal.tech/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/python.png" align="right" height="200" /></a>
 
-I am a 2nd-year Graduate Student at The University of Illinois at Chicago, pursuing a Masters in Computer Science, who is passionate about Data Science :bar_chart:, Pythonic programming :snake:, and open source :octocat:. I love to learn and contribute in any and every possible way.
+I am a Sophomore Student at The National Institute of Technology Durgapur, pursuing a Bachelor of Technology in Computer Science and Engineering , who is passionate about Web Development :computer:, Competitive programming :snake:, and open source :octocat:. I love to learn and contribute in any and every possible way.
 
 - 🌱 I’m currently learning [Machine Learning](https://www.coursera.org/learn/machine-learning) and Functional programming
 - 👯 I’m looking to collaborate on any Data Science project which seems interesting or useful
