@@ -26,7 +26,10 @@ I am a Sophomore Student at The National Institute of Technology Durgapur, pursu
 <!-- <a href="https://github.com/iabhishekbasu/convoychat">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iabhishekbasu" width="350"/>
 </a> -->
-**Languages and Tools:**  
+
+![Profile Views](https://komarev.com/ghpvc/?username=iabhishekbasu&color=blue)
+
+## **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -35,9 +38,6 @@ I am a Sophomore Student at The National Institute of Technology Durgapur, pursu
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-![Profile Views](https://komarev.com/ghpvc/?username=iabhishekbasu&color=blue)
-
 
 ## Find me around the web :globe_with_meridians:
 [![DEV Badge](https://img.shields.io/badge/-iabhishekbasu-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/iabhishekbasu)
