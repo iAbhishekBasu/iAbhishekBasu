@@ -13,6 +13,7 @@ I am a Sophomore Student at The National Institute of Technology Durgapur, pursu
 - 👯 I’m looking to collaborate on any Web Development project which seems interesting or useful
 - 💬 Talk to me about if Earth actually is flat, would headlights work at light speed, and everything in between
 - 📫 How to reach me: Use any of the [badges](#hi-there-im-Abhishek-) above
+- 😌 Motto: **Think Twice, Code Once!**
 - 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
 - 👾 Fun fact: Everything that has been or could be written/said already exists in the [Library of Babel](https://libraryofbabel.info/)
 
