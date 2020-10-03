@@ -48,20 +48,3 @@ I am a Sophomore Student at The National Institute of Technology Durgapur, pursu
 - ⚡ Fun fact: ...
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=iabhishekbasu.iabhishekbasu)
-[![HitCount](http://hits.dwyl.com/iabhishekbasu/iabhishekbasu.svg)](http://hits.dwyl.com/iabhishekbasu/iabhishekbasu)
-![Repo Views](https://views.whatilearened.today/views/github/iabhishekbasu/iabhishekbasu.svg?cache=remove)
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png">
-
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=samujjwaal&repo=UIC-search-engine&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
-
-<a href="https://github.com/iabhishekbasu/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=iabhishekbasu&hide=stars,commits,prs,issues,contribs&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
-<a href="https://github.com/iabhishekbasu/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iabhishekbasu" width="350"/>
-</a>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iabhishekbasu)
--->
