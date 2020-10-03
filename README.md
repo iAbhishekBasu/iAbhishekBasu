@@ -13,9 +13,9 @@ I am a Sophomore Student at The National Institute of Technology Durgapur, pursu
 - 👯 I’m looking to collaborate on any Web Development project which seems interesting or useful
 - 💬 Talk to me about if Earth actually is flat, would headlights work at light speed, and everything in between
 - 📫 How to reach me: Use any of the [badges](#hi-there-im-Abhishek-) above
-- 😌 Motto: **Think Twice, Code Once!**
+- 😌 Motto: **The More You Sweat in Practice, the Less You Bleed in Battle**
 - 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
-- 👾 Fun fact: Everything that has been or could be written/said already exists in the [Library of Babel](https://libraryofbabel.info/)
+- 👾 Fun fact: If I didn't procastinate all my life, you would probably be reading a book about me now.
 
 ## Some of my Github Public Stats
 <a href="https://samujjwaal.tech/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/coffee.png" align="right" height="275" /></a>
