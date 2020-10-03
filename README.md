@@ -49,7 +49,7 @@ I am a Sophomore Student at The National Institute of Technology Durgapur, pursu
 [![Reddit Badge](https://img.shields.io/badge/-u/daftdey-FF4500?style=flat&logo=Reddit&logoColor=white)](https://www.reddit.com/user// "Find on Reddit") -->
 
 
-Credits: @
+Credits: @a
 
 <!-- For future reference 
 <a href="https://piraces.dev/"><img alt="Robot logo" src="https://github.com/piraces/piraces/raw/master/robot_dark.png" align="right" height="150" /></a>
