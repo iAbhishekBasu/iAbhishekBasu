@@ -20,7 +20,7 @@ I am a Sophomore Student at The National Institute of Technology Durgapur, pursu
 
 ## Some of my Github Public Stats
 <!-- <a href=""><img src="https://github.com/iAbhishekBasu/iAbhishekBasu/blob/main/Pics/GlLRaZV.png" align="right" height="275" /></a> -->
-
+<details>
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=iabhishekbasu&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/iabhishekbasu)
 
 <!-- <a href="https://github.com/iabhishekbasu/convoychat">
@@ -37,7 +37,7 @@ I am a Sophomore Student at The National Institute of Technology Durgapur, pursu
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=iabhishekbasu&color=blue)
-
+</details>
 
 ## Find me around the web :globe_with_meridians:
 [![DEV Badge](https://img.shields.io/badge/-iabhishekbasu-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/iabhishekbasu)
