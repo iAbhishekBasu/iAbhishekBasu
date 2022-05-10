@@ -7,11 +7,11 @@
 ```
 Wear your failure as a badge of honour ~ Sundar Pichai
 ```
-I am a Junior Student at The National Institute of Technology Durgapur, pursuing a Bachelor of Technology in Computer Science and Engineering , who is passionate about Web Development :computer:, Competitive programming :crossed_swords:, and open source :octocat:. I love to learn and contribute in any and every possible way.
+I am a Senior Student at The National Institute of Technology Durgapur, pursuing a Bachelor of Technology in Computer Science and Engineering , who is passionate about Web Development :computer:, Machine Learning :crossed_swords:, and open source :octocat:. I love to learn and contribute in any and every possible way.
 
-- 🌱 I’m currently learning [Kalman Filter]() and Data Structures and Algorithms in C++
+- 🌱 I’m currently learning [ONNX and PyTorch]()
 - 👨🏽‍💻 I’m currently working on my website :wink:;
-- 👯 I’m looking to collaborate on any Web Development project which seems interesting or useful
+- 👯 I’m looking to collaborate on any Web Development/ Computer Vision project which seems interesting or useful
 - 💬 Talk to me about **Books**, **Cubing**, **Basketball** and anything related to **Technology**.
 - 📫 How to reach me: Use any of the [badges](#hi-there-im-Abhishek-) above
 - 😌 Motto: **The More You Sweat in Practice, the Less You Bleed in Battle**
